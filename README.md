@@ -8,5 +8,6 @@ The first pivot is about Single Bidders. Here, we are trying to browse our data 
 The second pivot is about percentage of no calls for bids, which filtered the data and extracted only the award without prior publication of a contract notice (AWP) and negotiated without a call for competition (NOC/NOP).
 The third pivot is about awards given to SME Contractors. We are interested in seeing how many awards were given to actual small-medium sized enterprises. Once again, we take this number and comparing it to the total amount of awards given, we extract another percentage. A big amount of Percent of SME Contractors is a good indication for the country’s transparency.
 After finishing with these 3 pivots, we merge them together in our table. The next step is to find an average score per country, using all the information that we manage to extract in the last 3 steps. We use our 3 pivot results to find the average ‘Score’ for the transparency of each country.
+
 Then we import 2 external excel files. First one is the Corruption Perceptions Index and then the Standard and Poor’s (S&P) Sovereign Risk Indicators. The main idea was to compare our results for transparency, to the official ratings.
 Later we provide some graphs using Power BI and several statistics as our conclusions. 
